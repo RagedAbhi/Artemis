@@ -1,0 +1,11 @@
+@media only screen and (max-width: 1600px) {
+    .resPage {
+        max-width: 87rem;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .resPage {
+        max-width: 39rem;
+    }
+}
